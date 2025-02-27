@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.443140e0.css",
+    "main.js": "/static/js/main.acf45836.js",
+    "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
+    "static/media/Login background loop.mp4": "/static/media/Login background loop.348fc878621432790de2.mp4",
+    "static/media/flag2.mp4": "/static/media/flag2.4a9f034f5db294fe05e7.mp4",
+    "static/media/service-bg-placeholder.jpg": "/static/media/service-bg-placeholder.b940d489287b17cb1572.jpg",
+    "static/media/BackgroundHeroSection.jpg": "/static/media/BackgroundHeroSection.a1f0feb3ec1522f8c400.jpg",
+    "static/media/lantena_white_herosection.png": "/static/media/lantena_white_herosection.4d97563b524c2658284c.png",
+    "static/media/lantena_white_navbar.png": "/static/media/lantena_white_navbar.1ce51193d59677e5834c.png",
+    "static/media/Property Marketing.png": "/static/media/Property Marketing.1cccdaca861f6d9e85d9.png",
+    "static/media/Assessment of Rent and Service Charges.png": "/static/media/Assessment of Rent and Service Charges.5f48c8d1574d2626d046.png",
+    "static/media/Tenant Management.png": "/static/media/Tenant Management.79ee2d9c302c265fe038.png",
+    "static/media/Project Management.png": "/static/media/Project Management.5c348f0dcc7206a96b43.png",
+    "static/media/Rent Collection and Accounting.png": "/static/media/Rent Collection and Accounting.60a95db2c1c6a6a86390.png",
+    "static/media/MRI and Filing.png": "/static/media/MRI and Filing.39f8cb51ec3a7917cd1b.png",
+    "static/media/Property Management.png": "/static/media/Property Management.f969dcc4668be6c4f870.png",
+    "static/media/yahoo.png": "/static/media/yahoo.b538df7be2283c55eabb.png",
+    "static/media/google.png": "/static/media/google.e12914ad8afda3f6f2e8.png",
+    "static/media/apple.png": "/static/media/apple.1511c3d419cb16aec154.png",
+    "index.html": "/index.html",
+    "main.443140e0.css.map": "/static/css/main.443140e0.css.map",
+    "main.acf45836.js.map": "/static/js/main.acf45836.js.map",
+    "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.443140e0.css",
+    "static/js/main.acf45836.js"
+  ]
+}
